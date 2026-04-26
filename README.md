@@ -83,8 +83,3 @@ This analysis provides insights into:
 
 These insights can help game developers improve user experience, retention strategies, and product decisions.
 
----
-
-## 👤 Author
-
-**Venitha Viswanathan**
